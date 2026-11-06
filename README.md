@@ -1,0 +1,2 @@
+# mindvault
+Static site
